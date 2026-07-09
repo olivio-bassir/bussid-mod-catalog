@@ -1,7 +1,72 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-07-10",
   "mods": [
+    {
+      "id": "uvtpl-srikandi-shd",
+      "name": "Template UV — Srikandi SHD",
+      "type": "livery",
+      "fileName": "template_srikandi_shd.png",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_srikandi_shd.png",
+      "sourcePageUrl": "https://bussimulator.id/livery-templates/",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_srikandi_shd.png",
+      "author": "Maleo (officiel)",
+      "category": "Template UV",
+      "description": "Dépliage UV officiel du bus Srikandi SHD. Peins dessus pour un rendu parfaitement aligné.",
+      "sizeBytes": 31076
+    },
+    {
+      "id": "uvtpl-bimasena-sdd",
+      "name": "Template UV — Bimasena SDD",
+      "type": "livery",
+      "fileName": "template_bimasena_sdd.png",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_bimasena_sdd.png",
+      "sourcePageUrl": "https://bussimulator.id/livery-templates/",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_bimasena_sdd.png",
+      "author": "Maleo (officiel)",
+      "category": "Template UV",
+      "description": "Dépliage UV officiel du bus à étage Bimasena SDD.",
+      "sizeBytes": 39618
+    },
+    {
+      "id": "uvtpl-arjuna-xhd",
+      "name": "Template UV — Arjuna XHD",
+      "type": "livery",
+      "fileName": "template_arjuna_xhd.png",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_arjuna_xhd.png",
+      "sourcePageUrl": "https://bussimulator.id/livery-templates/",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_arjuna_xhd.png",
+      "author": "Maleo (officiel)",
+      "category": "Template UV",
+      "description": "Dépliage UV officiel du bus Arjuna XHD.",
+      "sizeBytes": 673275
+    },
+    {
+      "id": "uvtpl-nakula-sadewa",
+      "name": "Template UV — Nakula-Sadewa",
+      "type": "livery",
+      "fileName": "template_nakula_sadewa.png",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_nakula_sadewa.png",
+      "sourcePageUrl": "https://bussimulator.id/livery-templates/",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_nakula_sadewa.png",
+      "author": "Maleo (officiel)",
+      "category": "Template UV",
+      "description": "Dépliage UV officiel des bus Nakula et Sadewa.",
+      "sizeBytes": 413147
+    },
+    {
+      "id": "uvtpl-jetbus-hd",
+      "name": "Template UV — Jetbus HD",
+      "type": "livery",
+      "fileName": "template_jetbus_hd.png",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_jetbus_hd.png",
+      "sourcePageUrl": "https://bussimulator.id/livery-templates/",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_jetbus_hd.png",
+      "author": "Maleo (officiel)",
+      "category": "Template UV",
+      "description": "Dépliage UV officiel de la carrosserie Jetbus HD.",
+      "sizeBytes": 39623
+    },
     {
       "id": "test-livery-garuda-rouge",
       "name": "Test Livery — Garuda Rouge",
