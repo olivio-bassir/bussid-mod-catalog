@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updatedAt": "2026-07-10",
   "mods": [
     {
@@ -66,6 +66,71 @@
       "category": "Template UV",
       "description": "Dépliage UV officiel de la carrosserie Jetbus HD.",
       "sizeBytes": 39623
+    },
+    {
+      "id": "uvtpl-bus-skybus-hd",
+      "name": "Template UV — SkyBus HD (Hino Legacy)",
+      "type": "livery",
+      "fileName": "template_bus_skybus_hd.png",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_bus_skybus_hd.png",
+      "sourcePageUrl": "https://github.com/olivio-bassir/bussid-mod-catalog",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_bus_skybus_hd.png",
+      "author": "Communauté (recalmaru)",
+      "category": "Template UV",
+      "description": "Dépliage UV blanc à fond transparent avec repères — bus SkyBus HD (carrosserie Hino Legacy).",
+      "sizeBytes": 327008
+    },
+    {
+      "id": "uvtpl-bus-hd-generic",
+      "name": "Template UV — Bus HD (générique)",
+      "type": "livery",
+      "fileName": "template_bus_hd_generic.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_bus_hd_generic.jpg",
+      "sourcePageUrl": "https://github.com/olivio-bassir/bussid-mod-catalog",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_bus_hd_generic.jpg",
+      "author": "Communauté (itkoding)",
+      "category": "Template UV",
+      "description": "Dépliage UV générique de carrosserie de bus HD (repères panneaux/vitres, fond noir).",
+      "sizeBytes": 222889
+    },
+    {
+      "id": "uvtpl-truck-fuso-hd",
+      "name": "Template UV — Camion Fuso HD",
+      "type": "livery",
+      "fileName": "template_truck_fuso_hd.webp",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_truck_fuso_hd.webp",
+      "sourcePageUrl": "https://github.com/olivio-bassir/bussid-mod-catalog",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_truck_fuso_hd.webp",
+      "author": "Communauté (dianisa)",
+      "category": "Template UV",
+      "description": "Dépliage UV d'un camion Fuso (tronton/trailer) : cabine, caisse, faces, roues.",
+      "sizeBytes": 86270
+    },
+    {
+      "id": "uvtpl-minibus-angkot",
+      "name": "Template UV — Angkot (Suzuki Carry)",
+      "type": "livery",
+      "fileName": "template_minibus_angkot.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_minibus_angkot.jpg",
+      "sourcePageUrl": "https://github.com/olivio-bassir/bussid-mod-catalog",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_minibus_angkot.jpg",
+      "author": "Communauté (namatin)",
+      "category": "Template UV",
+      "description": "Dépliage UV du minibus angkot (Suzuki Carry) : face, flancs, toit, roue, plaque.",
+      "sizeBytes": 43131
+    },
+    {
+      "id": "uvtpl-suv-pajero-sport",
+      "name": "Template UV — SUV Pajero Sport",
+      "type": "livery",
+      "fileName": "template_suv_pajero_sport.jpg",
+      "fileUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_suv_pajero_sport.jpg",
+      "sourcePageUrl": "https://github.com/olivio-bassir/bussid-mod-catalog",
+      "previewUrl": "https://raw.githubusercontent.com/olivio-bassir/bussid-mod-catalog/main/templates_uv/template_suv_pajero_sport.jpg",
+      "author": "Communauté (namatin)",
+      "category": "Template UV",
+      "description": "Dépliage UV du SUV Pajero Sport : flancs, toit, capot, hayon, repères.",
+      "sizeBytes": 31534
     },
     {
       "id": "test-livery-garuda-rouge",
